@@ -1,0 +1,16 @@
+{
+  "name": "fastdraft-mern",
+  "version": "1.0.0",
+  "description": "Capture Ideas in a Flash, Draft at the Speed of Thoughts!",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon backend/server.js"
+  },
+  "author": "Vasant Chimmalagi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.3"
+  }
+}
